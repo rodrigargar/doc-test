@@ -25,6 +25,9 @@ Coding with kids can be a *great* and **bold** way. New ``concepts`` and ``terms
 .. caution::
    This should be inside a box.
 
+.. warning::
+    This is a dangerous thing to do.
+
 .. code-block:: bash
 
    #!/bin/bash
