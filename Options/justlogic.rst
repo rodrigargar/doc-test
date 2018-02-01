@@ -6,7 +6,7 @@ Subsection
 
 Subsubsection
 :::::::::::::
-.. _logicsub
+.. _logicsub:
 
 Fourth level
 ............

@@ -9,12 +9,16 @@ Welcome to Coding with Kids's documentation!
 Coding with kids can be a *great* and **bold** way. New ``concepts`` and ``terms``.
 
 * Understand
+
     * Indented
+
 * Use available Options
 
 #. Numbered list
+
     #. 1st subitem
     #. 2nd subitem
+
 #. Second item
 #. Third item
 
